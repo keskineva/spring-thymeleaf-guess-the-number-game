@@ -1,3 +1,9 @@
-/home/ava/Desktop/spring-code/guess-the-number-game-main/web/src/main/java/academy/learnprogramming/WebMain.java
-/home/ava/Desktop/spring-code/guess-the-number-game-main/web/src/main/java/academy/learnprogramming/config/WebConfig.java
-/home/ava/Desktop/spring-code/guess-the-number-game-main/web/src/main/java/academy/learnprogramming/util/ViewNames.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/util/GameMappings.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/util/thymeleaf/DecoupledLogicSetup.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/controller/GameController.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/util/ViewNames.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/config/WebConfig.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/WebMain.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/service/GameServiceImpl.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/service/GameService.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/web/src/main/java/academy/learnprogramming/util/AttributeNames.java
