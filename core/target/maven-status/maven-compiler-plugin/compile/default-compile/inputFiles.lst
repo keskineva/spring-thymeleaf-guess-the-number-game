@@ -1,4 +1,5 @@
 /home/ava/Desktop/spring-thymeleaf-guess-the-number-game/core/src/main/java/academy/learnprogramming/Game.java
+/home/ava/Desktop/spring-thymeleaf-guess-the-number-game/core/src/main/java/academy/learnprogramming/interceptor/RequestInterceptor.java
 /home/ava/Desktop/spring-thymeleaf-guess-the-number-game/core/src/main/java/academy/learnprogramming/config/GameConfig.java
 /home/ava/Desktop/spring-thymeleaf-guess-the-number-game/core/src/main/java/academy/learnprogramming/MinNumber.java
 /home/ava/Desktop/spring-thymeleaf-guess-the-number-game/core/src/main/java/academy/learnprogramming/MaxNumber.java

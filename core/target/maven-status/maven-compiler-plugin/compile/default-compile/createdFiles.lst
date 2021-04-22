@@ -2,6 +2,7 @@ academy/learnprogramming/MessageGeneratorImpl.class
 academy/learnprogramming/Game.class
 academy/learnprogramming/GuessCount.class
 academy/learnprogramming/GameImpl.class
+academy/learnprogramming/interceptor/RequestInterceptor.class
 academy/learnprogramming/MinNumber.class
 academy/learnprogramming/MaxNumber.class
 academy/learnprogramming/NumberGeneratorImpl.class
